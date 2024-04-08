@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 /**
- * Calculation of a sum of linear operators on a superposition quantum state
+ * Calculation of a sum of linear operators on a superposition quantum state for ECE2238
  *
  * @author Tyler Liquornik
  */
